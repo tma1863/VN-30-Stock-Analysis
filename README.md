@@ -1,4 +1,7 @@
 # VN-30-Stock-Analysis
+![](https://miro.medium.com/v2/resize:fit:1400/1*_12VG957NJA854PvZFJNDA.png)
+
+[Nguồn ảnh: meidum.com](https://medium.com/analytics-vidhya/introduction-to-technical-analysis-of-stock-markets-453e9049771d)
 
 Stock Analysis hay còn gọi là Market Analysis đề cập đến phương pháp mà nhà đầu tư hoặc nhà giao dịch sử dụng để đánh giá và điều tra một công cụ giao dịch cụ thể, lĩnh vực đầu tư hoặc toàn bộ thị trường chứng khoán. Không những thế, nó liên quan đến việc nghiên cứu dữ liệu thị trường trong quá khứ và hiện tại và tạo ra một phương pháp để chọn cổ phiếu phù hợp để giao dịch. Các nhà đầu tư sẽ đưa ra quyết định mua hoặc bán dựa trên thông tin phân tích chứng khoán.
 
